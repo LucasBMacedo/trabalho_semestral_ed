@@ -5,8 +5,8 @@
 ## 🧑‍💻 Equipe
 
 - **Desenvolvedores/Alunos:**
-  - [Maykon Wlliam](https://github.com/MaykonWilliam)
-  - [Lucas Bezerra](https://github.com/LucasBMacedo)
+  - [Maykon Wlliam Teodoro dos Santos](https://github.com/MaykonWilliam)
+  - [Lucas Bezerra de Macedo](https://github.com/LucasBMacedo)
   - [André Oliveira Batista](https://github.com/AndreOliveiraBatista)
   - [Vinicius de Souza Moreira](https://github.com/Vineee95)
   
